@@ -11,6 +11,7 @@ A state-of-the-art multilingual question answering system supporting **English �
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- Deployement
 - [Key Features](#key-features)
 - [Performance](#performance)
 - [Installation](#installation)
@@ -42,6 +43,8 @@ The model reads a passage (context) and a question, then extracts the exact answ
 - **Answer:** "Paris"
 
 ---
+## 🎯 Deployement
+-**Deployed on:** https://huggingface.co/spaces/Praanshull/multilingual-qa-system
 
 ## ✨ Key Features
 
